@@ -6,4 +6,5 @@ Right now I'm learning Ruby!
 
 #### Me everywhere else
 **Twitter:** @ashixqt
+
 **Discord:** ashixqt#9448

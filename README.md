@@ -1,6 +1,6 @@
 ### Hi~! 💞
 
-I'm Ashleigh, and I just literally started programming a few days ago!
+I'm Ashleigh!
 
 Right now I'm learning Ruby!
 
@@ -8,3 +8,5 @@ Right now I'm learning Ruby!
 **Twitter:** [@ashixqt](twitter.com/ashixqt)
 
 **Discord:** ashixqt#9448
+
+**That is it**

@@ -1,12 +1,10 @@
-### Hi~! 💞
+<img src="https://avatars.githubusercontent.com/u/87587245?v=4" width=200px />
 
-I'm Ashleigh!
+### Oh, hi there
 
-Right now I'm learning Ruby!
+I'm Ashleigh, and you're not
 
-#### Me everywhere else
-**Twitter:** [@ashixqt](twitter.com/ashixqt)
++ I code in HTML, Ruby, that's it
++ I use VS Code
 
-**Discord:** ashixqt#9448
-
-**That is it**
+Is that it? Can I go now?
